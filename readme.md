@@ -57,6 +57,10 @@ Set up your API key as per Google's Generative AI documentation and include it i
             final_response = response
     if final_response != None:
         st.write(final_response.result)
+
+## Output
+![img_output](https://github.com/MuhammadAinurR/code-writer-assistant/blob/main/image/ezgif.com-gif-maker%20(2).gif?raw=true)
+
 ## Support
 For any queries or support, please open an issue on the project's GitHub repository.
 
